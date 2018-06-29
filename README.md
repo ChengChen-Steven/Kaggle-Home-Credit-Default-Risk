@@ -20,7 +20,7 @@ Home Credit is trying to fill in the market of financially underserved people. B
 * 2. High risk of bad loans 
 * 3. Many documents & Need days to get approval
 
-So this is a very useful project. As you can basically start a similar business by leveraging the idea behind this and take care of the risk. (Of course, different population, different region will makes things different but at least there is some workaround. For example, we can extract the most important variables and start a similar business with more tough thresholds on these variables).
+So this is a very useful project. As you can basically start a similar business by leveraging the idea behind this and take care of the risk. (Of course, different populations, different regions will make things different but at least there is some workaround. For example, we can extract the most important variables and start a similar business with more tough thresholds on these variables).
 
 In short, it helps solve the new-starter problem. BTW, many companies start to do small loans to those financially underserved people. 
 
